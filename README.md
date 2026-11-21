@@ -26,8 +26,12 @@ Uoffisielt program, ikke tilknyttet LG eller YouTube. Bruk på eget ansvar.
 
 ## Slik installerer du
 1. Last ned filen som slutter på **_Setup.exe** (under «Assets» nederst).
-2. Dobbeltklikk den og velg mappe.
-3. Start programmet fra Start-menyen eller skrivebordet.
+2. Nettleseren kan si at filen «ikke lastes ned ofte» eller er usikker. Det skjer med alle nye programmer uten betalt signatur. Velg **Behold** (eventuelt «⋯» og så **Behold**, og så **Behold likevel**).
+3. Dobbeltklikk filen. Windows kan vise en blå boks med **«Windows beskyttet PC-en din»**. Trykk **Mer info** (kan også hete «Mer informasjon»), og så **Kjør likevel**. Da starter installasjonen.
+4. Velg mappe og følg veiviseren. Start programmet fra Start-menyen eller skrivebordet.
+
+**Slettes eller blokkeres filen av antivirus?** Programmer som er pakket til én exe blir av og til feilmeldt av antivirus. Er du usikker, kan du sjekke at filen er uendret: kjør `Get-FileHash <filnavn>` i PowerShell og sammenlign med sjekksummen (SHA-256) lenger ned. Stemmer den, er filen akkurat den som ligger her.
+
 Neste versjon: last ned den nye Setup-filen og kjør den. Den oppdager den gamle installasjonen og beholder dataene dine.
 
 ## Hjelp
@@ -60,8 +64,12 @@ Unofficial program, not affiliated with LG or YouTube. Use at your own risk.
 
 ## How to install
 1. Download the file ending in **_Setup.exe** (under «Assets» below).
-2. Double-click it and choose a folder.
-3. Start the program from the Start menu or the desktop.
+2. Your browser may say the file is «not commonly downloaded» or is unsafe. This happens with every new program without a paid signature. Choose **Keep** (or «⋯» and then **Keep**, then **Keep anyway**).
+3. Double-click the file. Windows may show a blue box saying **«Windows protected your PC»**. Click **More info**, and then **Run anyway**. The installation then starts.
+4. Choose a folder and follow the wizard. Start the program from the Start menu or the desktop.
+
+**Deleted or blocked by antivirus?** Programs packed into a single exe are sometimes flagged by antivirus by mistake. If you are unsure, check that the file is unchanged: run `Get-FileHash <filename>` in PowerShell and compare with the checksum (SHA-256) further down. If they match, the file is exactly the one published here.
+
 Next version: download the new Setup file and run it. It detects the old installation and keeps your data.
 
 ## Help
