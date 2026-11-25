@@ -1,6 +1,6 @@
 # Raggen7 LG TV YouTube AdFree
 
-**[⬇ Last ned siste versjon / Download latest version](https://github.com/Raggen7/Raggen7_Lg_Youtube_Adfree/releases/latest)** · v2.10.1
+**[⬇ Last ned siste versjon / Download latest version](https://github.com/Raggen7/Raggen7_Lg_Youtube_Adfree/releases/latest)** · v2.10.2
 
 🇳🇴 Norsk · 🇬🇧 [English below](#english)
 
@@ -19,7 +19,7 @@ Uoffisielt program, ikke tilknyttet LG eller YouTube. Bruk på eget ansvar.
 
 ## Les dette før du laster ned
 - **Krav:** Windows 10 eller 11 (64-bit). LG-TV med webOS og Developer Mode-appen (gratis LG-konto). PC og TV på samme nettverk. Testet på webOS 4.10; andre modeller er ikke testet.
-- **Lisens:** 30 dagers gratis prøvetid, deretter trengs en kode (pris 100 kr, ca. 10 EUR). Betal med Vipps (Norge) eller PayPal (alle land, vanligvis også med kort uten PayPal-konto). Koden gjelder ett program på én PC.
+- **Lisens:** 15 dagers gratis prøvetid, deretter trengs en kode (pris 100 kr, ca. 10 EUR). Betal med Vipps (Norge) eller PayPal (alle land, vanligvis også med kort uten PayPal-konto). Koden gjelder ett program på én PC.
 - **Windows-advarsel:** Programmet er ikke kodesignert, så Windows kan vise «Windows beskyttet PC-en din». Trykk **Mer info** og så **Kjør likevel**. Det skjer med alle nye programmer uten betalt signatur.
 - **Personvern:** Programmet sender ikke data til meg. Innstillinger og logg ligger på din egen PC.
 
@@ -57,7 +57,7 @@ Unofficial program, not affiliated with LG or YouTube. Use at your own risk.
 
 ## Read this before you download
 - **Requirements:** Windows 10 or 11 (64-bit). LG TV with webOS and the Developer Mode app (free LG account). PC and TV on the same network. Tested on webOS 4.10; other models are untested.
-- **License:** 30-day free trial, then a code is needed (price 100 NOK, about 10 EUR). Pay with PayPal (any country, usually also by card without a PayPal account) or Vipps (Norway only). One code covers one program on one PC.
+- **License:** 15-day free trial, then a code is needed (price 100 NOK, about 10 EUR). Pay with PayPal (any country, usually also by card without a PayPal account) or Vipps (Norway only). One code covers one program on one PC.
 - **Windows warning:** The program is not code-signed, so Windows may show «Windows protected your PC». Click **More info** and then **Run anyway**. This happens with all new unsigned programs.
 - **Privacy:** The program does not send any data to me. Settings and logs stay on your own PC.
 
