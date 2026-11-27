@@ -74,3 +74,7 @@ Next version: download the new Setup file and run it. It detects the old install
 
 ## Help
 Bugs or questions: raggen7@live.no
+
+---
+
+#Raggen7 #LGTV #webOS #LGwebOS #YouTubeAdFree #YouTubeUtenReklame #YouTubeWebOS #SmartTV #LGSmartTV #DeveloperMode #Windows11 #ReklamefriTV
