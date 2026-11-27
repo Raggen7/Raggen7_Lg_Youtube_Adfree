@@ -77,4 +77,6 @@ Bugs or questions: raggen7@live.no
 
 ---
 
-#Raggen7 #LGTV #webOS #LGwebOS #YouTubeAdFree #YouTubeUtenReklame #YouTubeWebOS #SmartTV #LGSmartTV #DeveloperMode #Windows11 #ReklamefriTV
+Annonsefri YouTube på LG TV – YouTube uten reklame. / Ad-free YouTube app for LG TV – no ads.
+
+#LGTV #NoAds #AdFree #YouTube #LGTVApp #webOS #SmartTV #AnnonsefriYouTube #UtenReklame #ReklamefriTV #Raggen7
